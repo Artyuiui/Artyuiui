@@ -6,7 +6,7 @@ Developer, Photographer, Student
 
 * 🌍  I'm based in Korat
 * 🖥️  See my portfolio at [Portfolio](http://arty.in.th)
-* ✉️  You can contact me at [karinphat.artklezaza.zaza@gmail.com](mailto:karinphat.artklezaza.zaza@gmail.com)
+* ✉️  You can contact me at [arty@arty.in.th](mailto:arty@arty.in.th)
 * 🚀  I'm currently working on [Neecin](http://github.com/Artyuiui/neecin-repo.git)
 * 🧠  I'm currently learning AI, Full-Stack Development, Linux, and Computer Engineering.
 * 👥  I'm looking to collaborate on interesting open-source projects, AI applications, and developer tools.
